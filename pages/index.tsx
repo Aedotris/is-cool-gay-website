@@ -38,7 +38,7 @@ export default function Home() {
       >
         <VersionBadge />
         <h1 className='font-semibold tracking-tighter text-7xl whitespace-nowrap'>
-          DOMAIN | 4GRE.ME
+          DOMAIN | KHANG.AI
         </h1>
 
         <p className='text-xl text-center text-tertiary'>
