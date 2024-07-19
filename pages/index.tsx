@@ -38,12 +38,11 @@ export default function Home() {
       >
         <VersionBadge />
         <h1 className='font-semibold tracking-tighter text-7xl whitespace-nowrap'>
-          DOMAIN | KHANG.AI
+          SUBDOMAIN | IS-COOL.GAY
         </h1>
 
         <p className='text-xl text-center text-tertiary'>
-          The domain of Le Vinh Khang, a creative and innovative programmer,
-          offering cutting-edge artificial intelligence solutions
+          Self-service is-cool.gay subdomain registration.
         </p>
         <div className='flex flex-col items-center justify-center gap-4 mb-12 md:flex-row'>
           <GitHubButton />
@@ -117,11 +116,11 @@ function Footer() {
       Crafted with care by
       <a
         className='ml-1 text-primary group'
-        href='https://khang.ai'
+        href='https://is-cool.gay'
         target='_blank'
         rel='noopener noreferrer'
       >
-        Le Vinh Khang
+        Aedotris
         <span className='invisible ml-1 transition-opacity duration-100 ease-in-out group-hover:visible'>
           ↗
         </span>
@@ -133,7 +132,7 @@ function Footer() {
 function GitHubButton() {
   return (
     <a
-      href='https://t.me/NotYourParentsX'
+      href='https://t.me/williamcachamwrii'
       target='_blank'
       rel='noopener noreferrer'
       className='flex items-center gap-2 px-4 py-2.5 transition duration-200 hover:bg-gray-200 dark:hover:bg-gray-900 rounded-xl'
